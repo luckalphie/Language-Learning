@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <OutputName>Hello</OutputName>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>HelloWorld</RootNamespace>
+    
+  </PropertyGroup>
+
+</Project>
