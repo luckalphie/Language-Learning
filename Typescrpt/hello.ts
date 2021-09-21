@@ -18,7 +18,7 @@ greeter.greet();
 
 
 // 方法一
-//npm install -g typescript
+// npm install -g typescript
 // tsc hello.ts && node hello.js
 
 // 方法二

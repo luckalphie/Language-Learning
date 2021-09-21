@@ -6,7 +6,7 @@ import (
 
 func main() {
 	for i := 0; i < 100; i++ {
-		fmt.Printf("GO: Hello, World! No.%d\n", i)
+		fmt.Printf("GO: Hello, World2! No.%d\n", i)
 	}
 }
 
